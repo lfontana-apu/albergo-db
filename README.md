@@ -1,6 +1,6 @@
 # Albergo DB
 
-Esercizio 4x03 - Database Albergo (parte 1)
+Esercizi 4x03 e 4x04 - Database Albergo
 
 Database realizzato con MySQL/phpMyAdmin.
 
@@ -15,6 +15,21 @@ Il database contiene le tabelle:
 - `prenotazione_servizio`
 - `recensione`
 
-## Google Sheets
+## Esercizio 4x03 - Albergo (parte 1)
 
-[Apri il database dell'albergo](https://docs.google.com/spreadsheets/d/1epVhwiCiD2Y_tIYzgqwoB88gznAdf02jFh892purrmY/edit?usp=sharing)
+Progettazione e popolamento del database.
+
+### Google Sheets
+
+[Apri Albergo - Parte 1](https://docs.google.com/spreadsheets/d/1epVhwiCiD2Y_tIYzgqwoB88gznAdf02jFh892purrmY/edit?usp=sharing)
+
+## Esercizio 4x04 - Albergo (parte 2)
+
+Contiene:
+- CRUD della tabella `cliente`
+- CRUD della tabella `prenotazione`
+- 8 query richieste dall'esercizio
+
+### Google Sheets
+
+[Apri Albergo - Parte 2](https://docs.google.com/spreadsheets/d/1y3CVmir47F0rodZG6uZT41U287melLXyQF4eefqWYLU/edit?usp=sharing)
